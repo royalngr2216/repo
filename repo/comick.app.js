@@ -7,7 +7,7 @@
 // @icon         https://comick.app/static/icons/unicorn-256_maskable.png
 // @package      comick.app
 // @type         manga
-// @webSite      https://api.comick.io
+// @webSite      https://comick.io/home2
 // ==/MiruExtension==
 
 export default class extends Extension {
